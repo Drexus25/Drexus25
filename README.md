@@ -63,23 +63,19 @@ const rhyu_s = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Drexus25&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drexus25/Drexus25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Drexus25/Drexus25/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Drexus25/Drexus25/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drexus25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=0096C7&point=ffffff&area=true&area_color=4F46E5" width="100%" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
